@@ -12,7 +12,7 @@
 
   ---
 
-  [🌐 **Explore Live Demo**](https://manta-enterprice.vercel.app) • [📖 **View Specifications**](#-key-features) • [🚀 **Getting Started**](#-getting-started)
+  [🌐 **Explore Live Demo**](https://mantra-enterprice.vercel.app) • [📖 **View Specifications**](#-key-features) • [🚀 **Getting Started**](#-getting-started)
 
 </div>
 
